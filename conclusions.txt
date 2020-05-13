@@ -12,4 +12,4 @@ On day 43, the Spanish council declared the state of Emergency. This situation c
 
 Looking at the time evolution plot, it can be seen the delayed effect of the state of Emergency and the several de-escalation tactics. The time delayed is caused by the latent period of the disease plus the waiting time. The latter one stands for the time the government waits to receive the infected outcomes data.
 
-Finally, the fact of representing the influence of human behaviours over the infectivity rate and the several distance social measures leads to a better predictive model.
+Finally, the fact of representing the influence of human behaviours over the infectivity rate and the several social distancing measures leads to a better predictive model.
