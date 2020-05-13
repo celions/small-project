@@ -1,0 +1,15 @@
+Conclusions
+
+
+Comparing the experimental data with the SIR and SEIR predictions, it can be said that neither the SIR model nor the SEIR is a good approximation. With similar results, they did not predict the proper rate of transmissions, the peak of the infected curve, and the end of the epidemics.
+Even though considering the quarantine period, what we called in this study SIR-SIQR and SEIR-SEIQR models, the prediction capacity did not get better.
+
+Based on these results, the experimental data cannot be modelled using any of the systems studied during this report. First of all, every model used here were simplifications of more complex systems, which their dynamics are described by a considerable amount of parameters that depict transmission events more accurately. Moreover, the lockdown factor is not considered in this study.
+
+For further study, the population dataset was converted into a population pyramid. Taking into consideration each age group lifestyle, seven outing events were assigned to three groups: Schools, offices, and others. The population-weight was also computed. The outing events and the population-weights conformed what we called the Mobility Mapping. 
+
+On day 43, the Spanish council declared the state of Emergency. This situation changed the Mobility Mapping. Only restricted and essential mobility was allowed. We assume that the infectivity rate would decrease since the number of interactions between people decreased. Mathematically the change in the infectivity rate can be computed using the products between population-weights and outing events, before and after the lockdown. Every time the Spanish government declared new de-escalation tactics, the Mobility activity changed. Hence, a new infectivity rate was calculated. Using the SIQR with several infectivity rates, the model showed a higher capacity prediction. 
+
+Looking at the time evolution plot, it can be seen the delayed effect of the state of Emergency and the several de-escalation tactics. The time delayed is caused by the latent period of the disease plus the waiting time. The latter one stands for the time the government waits to receive the infected outcomes data.
+
+Finally, the fact of representing the influence of human behaviours over the infectivity rate and the several distance social measures leads to a better predictive model.
